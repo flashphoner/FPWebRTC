@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "WebRTC",
-            url: "https://flashphoner.com/downloads/builds/flashphoner_client/wcs-ios-sdk/pods/FPWebRTC-2.6.122.zip",
-            checksum: "8b6b7eff21753578e7c65df0bba51aaff433ffbea456a7a0ce12c03c4aa22659"
+            url: "https://flashphoner.com/downloads/builds/flashphoner_client/wcs-ios-sdk/pods/FPWebRTC-2.6.124.zip",
+            checksum: "93a5d46fcbc0dc5dcd7d7135def23024a0c1156a93c2f65fbc77d27bc57576a8"
         )
     ]
 )
